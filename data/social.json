@@ -8,5 +8,10 @@
         "name": "Telegram",
         "link": "https://t.me/osgeobr",
         "image": "images/social/Telegram_logo.svg"
+    },
+    {
+        "name": "Linkedin",
+        "link": "https://linkedin.com/company/osgeobrasil",
+        "image": "images/social/LinkedIn_icon.svg"
     }
 ]
