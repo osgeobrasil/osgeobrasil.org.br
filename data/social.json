@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/osgeobrasil",
+        "image": "images/social/github.svg"
+    },
+    {
+        "name": "Telegram",
+        "link": "https://t.me/osgeobr",
+        "image": "images/social/Telegram_logo.svg"
+    }
+]
