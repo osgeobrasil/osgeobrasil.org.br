@@ -13,5 +13,10 @@
     "title": "GeoNodeBR",
     "description": "Comunidade de usuários e desenvolvedores de GeoNode do Brasil",
     "image": "images/features/132843.png"
+  },
+  {
+    "name": "linkedin",
+    "icon": "fab fa-linkedin",
+    "link": "https://www.linkedin.com/"
   }
 ]
