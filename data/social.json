@@ -6,7 +6,7 @@
     },
     {
         "name": "Telegram",
-        "link": "https://t.me/osgeobr",
+        "link": "https://t.me/osgeobrasil",
         "image": "images/social/Telegram_logo.svg"
     },
     {
@@ -15,8 +15,23 @@
         "image": "images/social/LinkedIn_icon.svg"
     },
     {
+        "name": "Meninas da GEO",
+        "link": "https://meninasdageo.com.br",
+        "image": "images/meninasgeo_logo.png"
+    },
+    {
+        "name": "GeonodeBR",
+        "link": "https://geonode-br.github.io",
+        "image": "images/logo_geonodebr.png"
+    },
+    {
+        "name": "FOSS4G",
+        "link": "https://2024.foss4g.org",
+        "image": "images/foss4g_logo.jpg"
+    },
+    {
         "name": "QGIS Brasil",
         "link": "https://qgisbrasil.org",
-        "image": "images/features/mini_qgis_brasil_original.webp"
+        "image": "images/features/qgis_brasil_logo.webp"
     }
 ]
