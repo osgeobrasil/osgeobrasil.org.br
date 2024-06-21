@@ -40,9 +40,7 @@ title = "OSGeo Brasil"
     grey = "#666666"
 
   [params.seo]
-    meta_twitter_site = ""
-    meta_twitter_creator = ""
-    meta_og_image = ""
+    meta_og_image = "/images/OSGeo_Brasil.png"
 
   [params.services]
     summary_truncate = 120 # How many characters to include in the summary of the services before truncating
