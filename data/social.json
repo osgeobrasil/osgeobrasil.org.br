@@ -13,5 +13,9 @@
         "name": "Linkedin",
         "link": "https://linkedin.com/company/osgeobrasil",
         "image": "images/social/LinkedIn_icon.svg"
-    }
+    },
+    {
+        "name": "QGIS Brasil",
+        "link": "https://qgisbrasil.org",
+        "image": "images/features/mini_qgis_brasil_original.webp"
 ]
