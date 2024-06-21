@@ -1,11 +1,11 @@
 ---
 title: 'Sobre'
-date: 2018-02-22T17:01:34+07:00
+date: 2024-03-20
 ---
 
 A Associação Brasileira de Geotecnologias Livres e de Código Aberto - OSGEO Brasil, tem como finalidade principal promover o desenvolvimento e o uso de tecnologias geoespaciais livres, gratuitos e de código aberto no Brasil, alinhada com os objetivos da OSGeo globalmente.
 
-![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
+![About Us](/OSGeo_Brasil.png)
 
 ## Situação Jurídica
 
