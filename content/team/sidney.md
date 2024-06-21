@@ -1,5 +1,5 @@
 ---
-title: "Sidney S Goveia"
+title: "Sidney Schaberle Goveia"
 date: 2024-05-01T12:00:00+10:00
 draft: false
 image: "images/team/sidney.jpg"
@@ -9,4 +9,4 @@ promoted: true
 weight: 2
 ---
 
-Instrutor de QGIS| QGIS Brasil 🇧🇷 | OSGeo Brasil 🇧🇷 | FOSS4G'24 Belém
+Instrutor de Curso de Certificação de QGIS
