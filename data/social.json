@@ -15,6 +15,11 @@
         "image": "images/social/LinkedIn_icon.svg"
     },
     {
+        "name": "OSGeo",
+        "link": "https://www.osgeo.org",
+        "image": "images/osgeo.svg"
+    },
+    {
         "name": "Meninas da GEO",
         "link": "https://meninasdageo.com.br",
         "image": "images/meninasgeo_logo.png"
@@ -22,12 +27,12 @@
     {
         "name": "GeonodeBR",
         "link": "https://geonode-br.github.io",
-        "image": "images/logo_geonodebr.png"
+        "image": "images/geonode.png"
     },
     {
         "name": "FOSS4G",
         "link": "https://2024.foss4g.org",
-        "image": "images/foss4g_logo.jpg"
+        "image": "images/g627.svg"
     },
     {
         "name": "QGIS Brasil",
