@@ -13,5 +13,15 @@
     "title": "GeoNodeBR",
     "description": "https://geonode-br.github.io",
     "image": "images/features/132843.png"
+  },
+  {
+    "title": "FOSS4G 2024",
+    "description": "https://2024.foss4g.org",
+    "image": "images/text236.svg"
+  },
+  {
+    "title": "OSGeo",
+    "description": "https://osgeo.org",
+    "image": "images/osgeo.svg"
   }
 ]
