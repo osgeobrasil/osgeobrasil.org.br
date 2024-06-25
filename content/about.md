@@ -27,9 +27,11 @@ Algumas das ações que podem ser conduzidas pela OSGEO Brasil:
 
 ### Atividades
 
-- Definição dos Membros Votantes: Todos os membros inscritos em Usuarios_Brasileiros
+- Definição dos Membros Votantes: Todos os membros inscritos em Usuarios Brasileiros
 - Eleição do Grupo Constituinte/Coordenacao Atribuicoes (PROPOSTAS E VOTACAO)
   - Encontro Informal de Trabalho na GeoLivre - Troca de idéias
   - Reformulação dos Objetivos e Missão do Capítulo, aprovação na lista.
-Definição de papéis e seleção de membros para desempenhá-los, aprovaçao na lista.
-- Criação de Grupos_De_Trabalho (PROPOSTAS E VOTACAO)
+- Definição de papéis e seleção de membros para desempenhá-los, aprovação na lista.
+- Criação de Grupos de Trabalho (PROPOSTAS E VOTACAO)
+
+> [Wiki](https://wiki.osgeo.org/wiki/Brasil)
