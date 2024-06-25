@@ -1,27 +1,32 @@
 [
   {
     "title": "Meninas da GEO",
-    "description": "https://meninasdageo.com.br",
+    "description": "meninasdageo.com.br",
     "image": "images/features/meninasgeo.png"
   },
   {
     "title": "QGIS Brasil",
-    "description": "https://qgisbrasil.org",
+    "description": "qgisbrasil.org",
     "image": "images/features/mini_qgis_brasil_original.webp"
   },
   {
     "title": "GeoNodeBR",
-    "description": "https://geonode-br.github.io",
+    "description": "geonode-br.github.io",
     "image": "images/features/132843.png"
   },
   {
     "title": "FOSS4G 2024",
-    "description": "https://2024.foss4g.org",
+    "description": "2024.foss4g.org",
     "image": "images/g627.svg"
   },
   {
     "title": "OSGeo",
-    "description": "https://osgeo.org",
+    "description": "osgeo.org",
     "image": "images/osgeo.svg"
+  },
+  {
+    "title": "OpenStreetMap",
+    "description": "openstreetmap.org",
+    "image": "images/osm_logo.svg"
   }
 ]
