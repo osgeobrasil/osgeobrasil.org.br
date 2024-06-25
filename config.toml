@@ -74,8 +74,8 @@ title = "OSGeo Brasil"
     weight = 4
 
   [[menu.main]]
-    name = "Wiki"
-    url = "https://wiki.osgeo.org/wiki/Brasil"
+    name = "FOSS4G 2024"
+    url = "https://2024.foss4g.org"
     weight = 5
 
   # Footer Menu
