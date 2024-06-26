@@ -54,12 +54,12 @@ title = "OSGeo Brasil"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Publicações"
+    name = "Informativos"
     url = "/services/"
     weight = 3
 
   [[menu.main]]
-    name = "Equipe"
+    name = "Associados"
     url = "/team/"
     weight = 2
 
