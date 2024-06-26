@@ -26,7 +26,7 @@ Contabilidade
 - Patricia dos Santos
 - Leonardo Ba.
 - Rodrigo Brust
-- Arthur Schmidt
+- Arthur Schmidt Nanni
 - Rodrigo Smarzaro
 
 **2. Arrecadações para pagar despesas correntes (2024)**
@@ -35,8 +35,7 @@ Contabilidade
 - Pix Recebido (Doação PF) - Vitor do Sacramento
 - Pix Recebido (Doação PF) - Carlos Eduardo Tamasauskas
 - Pix Recebido (Doação PF) - Felipe Ramos
-- Pix Recebido (Doação PF) - Arthur Schmidt
-- Pix Recebido (Doação PF) - Luiz Pacheco
+- Pix Recebido (Doação PF) - Arthur Schmidt Nanni
 - Pix Recebido (Doação PF) - Carlos Enrique H. Simoes
 - Pix Recebido (Doação PF) - George Silva
 - Pix Recebido (Doação PF) - George Porto Ferreira
