@@ -7,4 +7,4 @@ jobtitle: 'Geógrafo'
 weight: 7
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[LinkedIn](https://www.linkedin.com/in/george-porto-ferreira/)
