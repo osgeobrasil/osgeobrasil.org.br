@@ -6,7 +6,7 @@ image: 'images/team/aline.jpeg'
 jobtitle: '2° Secretária'
 linkedinurl: "https://www.linkedin.com/in/alinegraziadei"
 promoted: true
-weight: 4
+weight: 6
 ---
 
 Engenheira Agrônoma, Especialista em GIS, SIG, Geoprocessamento
