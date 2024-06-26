@@ -9,4 +9,4 @@ promoted: true
 weight: 5
 ---
 
-Aluna de Agronomia no IFPA Castanhal
+Aluna de Agronomia (IFPA Castanhal)

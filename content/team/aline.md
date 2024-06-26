@@ -9,4 +9,4 @@ promoted: true
 weight: 6
 ---
 
-Engenheira Agrônoma, Especialista em GIS, SIG, Geoprocessamento
+Engenheira Agrônoma (UFSM)

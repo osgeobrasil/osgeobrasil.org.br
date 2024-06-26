@@ -3,7 +3,7 @@ title: 'George Porto Ferreira'
 date: 2024-03-20
 draft: false
 image: 'images/team/george.jpeg'
-jobtitle: 'Geógrafo'
+jobtitle: 'Geógrafo (UDESC)'
 weight: 7
 ---
 

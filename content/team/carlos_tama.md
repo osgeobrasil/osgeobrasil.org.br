@@ -9,4 +9,4 @@ promoted: true
 weight: 3
 ---
 
-Analista de C&T no Censipam
+Geógrafo (UFPA)

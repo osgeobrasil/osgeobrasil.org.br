@@ -9,4 +9,4 @@ promoted: true
 weight: 2
 ---
 
-Instrutor de Curso de Certificação de QGIS
+Técnico de Agrimensura (EPA)

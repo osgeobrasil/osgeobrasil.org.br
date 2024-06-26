@@ -9,4 +9,4 @@ promoted: true
 weight: 4
 ---
 
-Professor Universitário
+Cientista da Computação (UFV)

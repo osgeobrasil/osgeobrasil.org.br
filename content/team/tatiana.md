@@ -9,4 +9,4 @@ promoted: true
 weight: 1
 ---
 
-Chair FOSS4G 2024 | Professora Universitária
+Engenheira Agrônoma (UFRA)
