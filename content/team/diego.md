@@ -6,7 +6,7 @@ image: "images/team/diego.jpeg"
 jobtitle: "1° Suplente CF"
 linkedinurl: "https://www.linkedin.com/in/diegohemk"
 promoted: true
-weight: 9
+weight: 10
 ---
 
 Engenheiro Agrimensor (UDESC)

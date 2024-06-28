@@ -6,7 +6,7 @@ image: "images/team/luiz_motta.jpeg"
 jobtitle: "Associado"
 linkedinurl: "https://www.linkedin.com/in/luiz-motta-370a1b18"
 promoted: true
-weight: 9
+weight: 13
 ---
 
 Engenheiro Florestal (UFV)

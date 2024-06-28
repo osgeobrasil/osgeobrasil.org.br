@@ -6,7 +6,7 @@ image: "images/team/carlos_simoes.jpeg"
 jobtitle: "Associado"
 linkedinurl: "https://www.linkedin.com/in/carlosenriquehernandezsimoes"
 promoted: true
-weight: 9
+weight: 13
 ---
 
 Engenheiro Civil (USP)

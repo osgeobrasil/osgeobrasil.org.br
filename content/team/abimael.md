@@ -6,7 +6,7 @@ image: "images/team/abimael.jpeg"
 jobtitle: "Associado"
 linkedinurl: "https://www.linkedin.com/in/abimael-cereda-junior"
 promoted: true
-weight: 9
+weight: 13
 ---
 
 Geógrafo (UNESP)

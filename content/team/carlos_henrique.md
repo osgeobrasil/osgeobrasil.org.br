@@ -6,7 +6,7 @@ image: "images/team/carlos_henrique.jpeg"
 jobtitle: "2° Suplente CF"
 linkedinurl: "http://lattes.cnpq.br/5846052449613692"
 promoted: true
-weight: 9
+weight: 11
 ---
 
 Geólogo (USP)

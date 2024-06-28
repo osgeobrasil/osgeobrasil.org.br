@@ -6,7 +6,7 @@ image: "images/team/anderlon.jpeg"
 jobtitle: "3° Suplente CF"
 linkedinurl: "https://www.linkedin.com/in/anderlon-andrade-da-silva-21700761"
 promoted: true
-weight: 9
+weight: 12
 ---
 
 Geofísico (UFPA)

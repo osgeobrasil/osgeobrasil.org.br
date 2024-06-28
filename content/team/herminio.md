@@ -6,7 +6,7 @@ image: "images/team/herminio.jpeg"
 jobtitle: "Associado"
 linkedinurl: "https://www.linkedin.com/in/herm%C3%ADnio-sabino-0b087381/"
 promoted: true
-weight: 9
+weight: 13
 ---
 
 Gestor Ambiental (UERN)

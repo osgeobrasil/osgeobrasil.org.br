@@ -6,7 +6,7 @@ image: "images/team/arthur.jpg"
 jobtitle: "Associado"
 linkedinurl: "http://lattes.cnpq.br/8619792677679228"
 promoted: true
-weight: 9
+weight: 13
 ---
 
 Geólogo (UFRGS)
