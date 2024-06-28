@@ -1,9 +1,12 @@
 ---
-title: 'Diego Hemkemeier Silva'
+title: "Diego Hemkemeier Silva"
 date: 2024-03-20
 draft: false
-image: 'images/team/diego.jpeg'
-jobtitle: 'Engenheiro Agrimensor (UDESC)'
+image: "images/team/diego.jpeg"
+jobtitle: "1° Suplente CF"
+linkedinurl: "https://www.linkedin.com/in/diegohemk"
+promoted: true
 weight: 9
 ---
-[LinkedIn](https://www.linkedin.com/in/diegohemk/)
+
+Engenheiro Agrimensor (UDESC)
