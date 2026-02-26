@@ -9,3 +9,7 @@ intro_image_hide_on_mobile: false
 # Informativos e eventos
 
 Publicações sobre as atividades da Associação
+
+## Fevereiro de 2026
+Edital de convocação para eleições da diretoria executiva e do conselho fiscal: [Baixar documento]( /docs/ata-assembleia-2026.docx )
+
