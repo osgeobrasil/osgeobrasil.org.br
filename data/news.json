@@ -1,0 +1,22 @@
+[
+{
+    "date": "Março de 2026",
+    "items": [
+      {
+        "text": "Dia 20/03/2026 foi realizada uma Assembleia Geral Ordinária para homologação de eleição com a recondução da diretoria."
+      },
+      {
+        "text": "OSGeo Brasil comemora 2 anos de conhecimento, colaboração e software livre!",
+        "image": "images/features/2anos_OSGeoBrasil.png"
+      }
+    ]
+  },
+  {
+    "date": "Fevereiro de 2026",
+    "items": [
+      {
+        "text": "Edital de convocação para eleições da diretoria executiva e do conselho fiscal: [Baixar documento]( /docs/Edital_Convocação_Fev_2026.pdf )"
+      }
+    ]
+  }
+]

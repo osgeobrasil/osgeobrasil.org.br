@@ -1,0 +1,13 @@
+{{ range .Site.Data.news }}
+  <h2>{{ .date }}</h2>
+
+  {{ range .items }}
+    <p>{{ .text | markdownify }}</p>
+    {{ if .image }}
+        <div class="news-image">
+          <img src="{{ .image | relURL }}" alt="" style="max-width:200px; height:auto;">
+        </div>
+      {{ end }}
+  {{ end }}
+
+{{ end }}
